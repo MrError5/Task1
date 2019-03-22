@@ -36,7 +36,11 @@
         "psr-4": {
             "App\\": "app/"
         },"files":[
+<<<<<<< HEAD
             "App/Helpers/CmsHelper.php"
+=======
+            "App/Http/helper.php"
+>>>>>>> 7446a25ead210c034112285715b1afec9b624f48
         ],
         "classmap": [
             "database/seeds",
